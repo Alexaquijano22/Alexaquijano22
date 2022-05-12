@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexandra Quijano</h1>
-<h3 align="left">I'm frontend developer and I know languages such as JavaScript and Typescript. I'm a proactive, disciplined, responsible person, with experience in teamwork, creativity, and constant learning to have professional and personal growth.</h3>
+<h3 align="left" style="text-align: "justify"">I'm frontend developer and I know languages such as JavaScript and Typescript. I'm a proactive, disciplined, responsible person, with experience in teamwork, creativity, and constant learning to have professional and personal growth.</h3>
 
 
 
