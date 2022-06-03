@@ -9,7 +9,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/Alexaquijano22)  
 
-![Framework CSS]([Bootstrap](https://getbootstrap.com/))  
+![Framework CSS](https://getbootstrap.com/)  
 
 <h3>My website: https://alexaquijano22.github.io/proyecto1-portafolio/</h3>
 
