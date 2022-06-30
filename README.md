@@ -9,35 +9,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/Alexaquijano22)  
 
-<div>
-<h3 align="left">Construido con:</h3>
-<div style="display:flex">
-<div style="margin-right:8px; display:flex">
-<div style="background:#4F4D51; width:max-content; padding: 0 0.5em;  border-radius:5px 0px 0px 5px">
-Lenguaje
-</div>
-<div style="background:#4DC119; padding: 0 0.5em; border-radius:0px 5px 5px 0px">
-TypeScript 3.5.3
-</div>
-</div>	
-<div style="margin-right:8px; display:flex">
-<div style="background:#4F4D51; width:max-content; padding: 0 0.5em;  border-radius:5px 0px 0px 5px">
-Framework CSS
-</div>
-<div style="background:#C588EC; padding: 0 0.5em; border-radius:0px 5px 5px 0px">
-Bootstrap 4.4.1
-</div>
-</div>
-<div style="margin-right:8px; display:flex">
-<div style="background:#4F4D51; width:max-content; padding: 0 0.5em;  border-radius:5px 0px 0px 5px">
-Framework
-</div>
-<div style="background:#1277AF; padding: 0 0.5em; border-radius:0px 5px 5px 0px">
-Angular 8.2.14
-</div>
-</div>
-</div>
-
 <h3>My website: https://alexaquijano22.github.io/proyecto1-portafolio/</h3>
 
 
